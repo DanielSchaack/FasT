@@ -1,2 +1,2 @@
-# FasT
-Fahrschulenterminplaner gebaut mit JavaFX
+# FaST
+rudimentärer Fahrschulenterminplaner gebaut mit JavaFX
